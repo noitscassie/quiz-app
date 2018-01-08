@@ -1,5 +1,4 @@
 class Round
-
   attr_reader :question, :answer
 
   def initialize
